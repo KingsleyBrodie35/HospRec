@@ -5,6 +5,7 @@ to help doctors keep track of patient's and patient records.
 
 Doctors have the ability to.
   Add, edit and search for Patients and Patient Records.
+  Doctors can use partial search on forms
  
 Data is stored in the cloud using Azure Database for MySQL and the application was hosted using Azure App Services whilst single sign on was abstracted using Azure 
 Active Directory.
